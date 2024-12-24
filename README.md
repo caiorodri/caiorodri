@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou o Caio Rodrigues</h1>
 
-<h3> Estudante de Sistemas de Informação no Senac - 3º Semestre </h3>
+<h3> Estudante de Sistemas de Informação no Senac - 4º Semestre </h3>
 
 <h4>  Criei esse perfil com o intuito de compartilhar minhas ideias e meus projetos </h4>
 
@@ -14,7 +14,7 @@
   <img align="center" alt="Caio-Java" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-<h3> Information Systems Student at Senac - 3rd Semester </h3>
+<h3> Information Systems Student at Senac - 4rd Semester </h3>
 
 <h4> I created this profile in order to share my ideas and my projects </h4>
 
