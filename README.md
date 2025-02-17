@@ -14,7 +14,7 @@
   <img align="center" alt="Caio-Java" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-<h3> Information Systems Student at Senac - 4rd Semester </h3>
+<h3> Information Systems Student at Senac - 4th Semester </h3>
 
 <h4> I created this profile in order to share my ideas and my projects </h4>
 
